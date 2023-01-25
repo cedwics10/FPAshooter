@@ -1,0 +1,8 @@
+Nous créons un FPS adapté aux personnes déficientes visuelles.
+Ce FPS n'a pas de représentation graphique mais il existe un mode de debuggage qui
+permet d'aider une personne à repérer qui a fait quoi.
+
+Ce RPG se joue seul. Vous êtes un personnage dans un niveau et vous voulez descendre
+des personnages virtuels que vous ne VOYEZ PAS !!!
+
+Tout est sonorisé 
